@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "0_mov_lea"
+		},
+		{
+			"path": "1_push_pop"
+		},
+		{
+			"path": "2_sum_sub_neg"
+		},
+		{
+			"path": "3_mul_div"
+		},
+		{
+			"path": "4_bitwise_shift"
+		},
+		{
+			"path": "5_jump"
+		},
+		{
+			"path": "6_call"
+		}
+	],
+	"settings": {}
+}
